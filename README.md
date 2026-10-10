@@ -24,13 +24,20 @@ An end-to-end sales analytics project that takes raw sales data from MySQL, clea
 ## Dashboard Pages
 
 **1. Key Insights**
+<img width="1015" height="637" alt="image" src="https://github.com/user-attachments/assets/b2acd376-61ea-459c-80a1-420ba9c5d254" />
+
 KPI cards (Revenue, Sales Quantity, Total Customers, Total Markets), revenue trend, and revenue by market and customer, with year and date slicers.
 
 **2. Profit Analysis**
+<img width="1020" height="638" alt="image" src="https://github.com/user-attachments/assets/c464e11d-76f7-4960-9837-6be6b11ae2d8" />
+
 Revenue contribution % vs profit margin contribution % by market, profit margin % by market, and a Top 5 Customers table.
 
 **3. Performance Insights**
+<img width="1022" height="640" alt="image" src="https://github.com/user-attachments/assets/04f95b24-44b1-44f7-9d19-7ae55b730423" />
+
 Revenue vs last year with profit margin %, profit margin by market, customer, product and zone, and an adjustable profit-target slicer.
+
 
 <!-- Add screenshots: ![Key Insights](images/key_insights.png) -->
 
